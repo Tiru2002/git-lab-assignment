@@ -15,5 +15,5 @@ Git _Lab_ Assignment
 <h2>Question and Output</h2>
 <br>
 <h3>question 1: 1. Install Git on your system and verify installation using the appropriate command</h3>
-<img src="1. Install Git on your system and verify installation using the appropriate command">
+<img src="https://github.com/Tiru2002/git-lab-assignment/blob/master/git-task-images/q1.PNG">
 <br>
